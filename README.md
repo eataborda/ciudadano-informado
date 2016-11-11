@@ -1,2 +1,2 @@
 # ciudadano-informado
-Proyecto Ciudadano Informado
+Página Ciudadano Informado
